@@ -13,9 +13,10 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^1.0.2
-  google_fonts: ^3.0.1
+  google_fonts: ^4.0.3
   ionicons: ^0.2.1
-
+  flutter_svg: ^0.22.0
+  table_calendar: ^3.0.9
 dev_dependencies:
   flutter_test:
     sdk: flutter
@@ -28,4 +29,5 @@ flutter:
   assets:
     - assets/places/
     - assets/icons/
-    - assets/
+    - assets/map.png
+    - assets/illustration.jpg

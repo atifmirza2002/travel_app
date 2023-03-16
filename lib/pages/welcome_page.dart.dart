@@ -15,11 +15,11 @@ class WelcomePage extends StatelessWidget {
               children: [
                 const Spacer(),
                 Image.asset(
-                  'assets/illustration.png',
+                  'assets/illustration.jpg',
                 ),
                 const SizedBox(height: 40),
                 const Text(
-                  "Explore your journey \nonly with us",
+                  "Explore your journey \n with us",
                   textAlign: TextAlign.center,
                   style: TextStyle(
                     fontSize: 26,

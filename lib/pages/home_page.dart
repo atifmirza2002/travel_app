@@ -21,7 +21,7 @@ class HomePage extends StatelessWidget {
           children: [
             const Text("Good Morning"),
             Text(
-              "Tetteh Jeron Asiedu",
+              "welcome to travel hack",
               style: Theme.of(context).textTheme.labelMedium,
             ),
           ],
